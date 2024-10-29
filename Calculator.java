@@ -1,4 +1,4 @@
-// Calculator for main branch
+// Calculator with division implemented. 
 public class Calculator {
     public double add(double a, double b) {
         return a + b;
@@ -8,5 +8,10 @@ public class Calculator {
         return a - b;
     }
 
-    // More methods to be added by students in different branches
+    public double divide(double a, double b) throws ArithmeticException {
+        if (b == 0) {
+            throw new ArithmeticException("Division by zero is not allowed");
+        }
+        return a / b;
+    }
 }
