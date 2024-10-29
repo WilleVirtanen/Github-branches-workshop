@@ -14,7 +14,8 @@
 Don't forget to make sure you commit and push your changes!  
 
 **Did you manage to complete it?** Great! Now try some more things out on your own.  
-Why not create another branch where you also make changes to add/subtract? 
+Why not create another branch where you also make changes to add/subtract. 
+You can also try to implement the changes from your new branch and that from the branch "division" and get them both into the main branch! 
 
 ## Code to copy+paste
 The following is some example code that you can use to test out merging branches. 
